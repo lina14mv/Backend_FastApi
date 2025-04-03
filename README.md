@@ -18,20 +18,20 @@ Leer Datos: https://backend-fast-api-gold.vercel.app/productos
 ## Create
 ![Creación de producto](Imagenes/Create.png)
 ## Read
-![Lectura de productos](imagenes/Read.png)
+![Lectura de productos](Imagenes/Read.png)
 ## Read by ID
-![Lectura de productos](imagenes/ReadbyID.png)
+![Lectura de productos](Imagenes/ReadbyID.png)
 ## Update
 Datos Iniciales
 
-![Datos iniciales](imagenes/Inicial.png)
+![Datos iniciales](Imagenes/Inicial.png)
 
 Actualizacion de datos
 
-![Actualizar Producto](imagenes/Update.png)
+![Actualizar Producto](Imagenes/Update.png)
 
 Datos Actualizados
 
-![Datos Actualizados](imagenes/Final.png)
+![Datos Actualizados](Imagenes/Final.png)
 ## Delete
-![Eliminar producto](imagenes/Delete.png)
+![Eliminar producto](Imagenes/Delete.png)
