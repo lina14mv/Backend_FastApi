@@ -16,7 +16,7 @@ Leer Datos: https://backend-fast-api-gold.vercel.app/productos
 
 # Pruebas
 ## Create
-![Creación de producto](imagenes/Create.png)
+![Creación de producto](Imagenes/Create.png)
 ## Read
 ![Lectura de productos](imagenes/Read.png)
 ## Read by ID
