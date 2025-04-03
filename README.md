@@ -1,1 +1,37 @@
 # Backend_FastApi
+# Realizado por:
+Diego Fernando Moreno - 2159838
+
+
+Lina Maria Muñoz - 2159849
+
+## Enlaces 
+Despliegue: https://backend-fast-api-gold.vercel.app/
+
+
+Documentacion: https://backend-fast-api-gold.vercel.app/docs
+
+
+Leer Datos: https://backend-fast-api-gold.vercel.app/productos
+
+# Pruebas
+## Create
+![Creación de producto](imagenes/Create.png)
+## Read
+![Lectura de productos](imagenes/Read.png)
+## Read by ID
+![Lectura de productos](imagenes/ReadbyID.png)
+## Update
+Datos Iniciales
+
+![Datos iniciales](imagenes/Inicial.png)
+
+Actualizacion de datos
+
+![Actualizar Producto](imagenes/Update.png)
+
+Datos Actualizados
+
+![Datos Actualizados](imagenes/Final.png)
+## Delete
+![Eliminar producto](imagenes/Delete.png)
